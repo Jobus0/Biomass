@@ -1,0 +1,16 @@
+{
+"companyName": "Cosmic Frog",
+"productName": "Biomass",
+"productVersion": "1.0",
+"dataUrl": "Biomass.data.unityweb",
+"wasmCodeUrl": "Biomass.wasm.code.unityweb",
+"wasmFrameworkUrl": "Biomass.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#393C39",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
