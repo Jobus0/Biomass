@@ -1,7 +1,7 @@
 {
 "companyName": "Cosmic Frog",
 "productName": "Biomass",
-"productVersion": "1.0",
+"productVersion": "1.0.1",
 "dataUrl": "Biomass.data.unityweb",
 "wasmCodeUrl": "Biomass.wasm.code.unityweb",
 "wasmFrameworkUrl": "Biomass.wasm.framework.unityweb",
